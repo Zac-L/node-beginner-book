@@ -1,0 +1,24 @@
+{
+  "name": "beginner-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zac-L/node-beginner-book.git"
+  },
+  "author": "Zachary Lichens <zacharylichens@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zac-L/node-beginner-book/issues"
+  },
+  "homepage": "https://github.com/Zac-L/node-beginner-book#readme"
+}
